@@ -42,6 +42,12 @@
 .bg {
     background-color: $light;
 }
+.project_direction_reverse {
+    flex-direction: row;
+    @include media-breakpoint-down (sm) {
+        flex-direction: column-reverse;
+    }
+}
 .border-0        { border: 0; }
 .border-1        { border: 1px; }
 .border-2        { border: 2px; }

@@ -17368,13 +17368,6 @@ a:hover {
   color: none;
 }
 
-input {
-  -webkit-appearance: none;
-  /* Safari 和 Chrome，常用於iOS下移除內建樣式 */
-  /* FireFox */
-  appearance: none;
-}
-
 ul {
   list-style: none;
   padding: 0;
@@ -17443,6 +17436,15 @@ h1, h2, h3, h4, h5, h6, p {
 
 .bg {
   background-color: #FEF5EF;
+}
+
+.project_direction_reverse {
+  flex-direction: row;
+}
+@media (max-width: 767.98px) {
+  .project_direction_reverse {
+    flex-direction: column-reverse;
+  }
 }
 
 .border-0 {
