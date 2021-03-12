@@ -12168,6 +12168,10 @@ h1, h2, h3, h4, h5, h6, p {
       font-weight: 700;
       border: 1px solid transparent;
       background: rgba(255, 255, 255, 0); }
+      @media (max-width: 991.98px) {
+        .project_text_button:hover {
+          color: #FEF5EF;
+          background-color: #9D5C63; } }
     .project_text_button::before {
       content: '';
       position: absolute;
@@ -12188,7 +12192,7 @@ h1, h2, h3, h4, h5, h6, p {
       transition: 0.5s; }
       @media (max-width: 991.98px) {
         .project_text_button:hover::before {
-          width: calc(100% - 18%); } }
+          display: none; } }
   .project_circle {
     right: 0;
     bottom: 12px;

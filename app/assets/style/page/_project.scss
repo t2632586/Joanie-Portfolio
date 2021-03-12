@@ -80,6 +80,10 @@
             font-weight: 700 ;
             border: 1px solid transparent;
             background: rgba(255, 255, 255, 0);
+            @include media-breakpoint-down (md) {
+                color: $light;
+                background-color: $primary;
+            }
         }
         &::before {
             content: '';
@@ -101,7 +105,7 @@
             opacity: 1;
             transition: 0.5s;
             @include media-breakpoint-down (md) {
-                width: calc(100% - 18%);
+                display: none;
             }
         }
     }
