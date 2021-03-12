@@ -44,8 +44,14 @@
 }
 .project_direction_reverse {
     flex-direction: row;
-    @include media-breakpoint-down (sm) {
+    @include media-breakpoint-down (md) {
         flex-direction: column-reverse;
+    }
+}
+.project_direction {
+    flex-direction: row;
+    @include media-breakpoint-down (md) {
+        flex-direction: column;
     }
 }
 .border-0        { border: 0; }
