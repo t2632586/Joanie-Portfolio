@@ -17938,9 +17938,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .project_icon:hover {
   color: #9D5C63;
-  border: 1px solid #9D5C63;
   font-weight: 500;
-  border-radius: 20px;
 }
 
 .aowoo {
