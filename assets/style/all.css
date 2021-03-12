@@ -11797,6 +11797,12 @@ h1, h2, h3, h4, h5, h6, p {
 .bg {
   background-color: #FEF5EF; }
 
+.project_direction_reverse {
+  flex-direction: row; }
+  @media (max-width: 767.98px) {
+    .project_direction_reverse {
+      flex-direction: column-reverse; } }
+
 .border-0 {
   border: 0; }
 
