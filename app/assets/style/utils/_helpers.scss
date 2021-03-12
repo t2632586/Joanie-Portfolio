@@ -1,0 +1,47 @@
+.hide_text {
+    text-indent: 110%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.bg_center {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.bg_contain {
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img_cover {
+    object-fit: cover;
+    object-position: center center;
+}
+.opcity {
+    opacity: 0.5;
+}
+.link_hover {
+    color: $secondary;
+    font-weight: 300;
+    &:hover {
+        color: $primary;
+        font-weight: 500;
+    }
+}
+.animated {
+    opacity: 0;
+    transition: all 1s;
+    transform: translateY(100px);
+}
+.fadeIn {
+    opacity: 1;
+    transform: translateY(0);
+}
+.bg_primary {
+    background-color: $primary;
+}
+.bg {
+    background-color: $light;
+}
+.border-0        { border: 0; }
+.border-1        { border: 1px; }
+.border-2        { border: 2px; }
