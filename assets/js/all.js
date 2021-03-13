@@ -19,7 +19,7 @@ $(document).ready(function () {
       var targetPos = $(target).offset().top;
       var targetHeight = $(target).outerHeight();
 
-      if (targetPos <= scrollPos && targetPos + targetHeight > scrollPos) {
+      if (targetPos - 1 <= scrollPos && targetPos + targetHeight > scrollPos) {
         $('.scrollTop').removeClass('active');
         $(this).addClass('active');
       } else {
