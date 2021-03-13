@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="386" height="209.427" viewBox="0 0 386 209.427">
+  <defs>
+    <linearGradient id="linear-gradient" x1="7.424" y1="0.5" x2="8.166" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9f0000"/>
+      <stop offset="1" stop-color="#e50012"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.56" y1="0.5" x2="8.444" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="10.017" y1="0.5" x2="10.992" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="7.424" y1="0.5" x2="8.166" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231815"/>
+      <stop offset="0.137" stop-color="#281e1b"/>
+      <stop offset="0.659" stop-color="#383231"/>
+      <stop offset="1" stop-color="#3e3a39"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="3.997" y1="0.5" x2="4.962" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231815"/>
+      <stop offset="1" stop-color="#3e3a39"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="8.898" y1="0.5" x2="9.589" y2="0.5" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-7" x1="8.898" y1="0.5" x2="9.589" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="project05_06" transform="translate(-530 -2870.182)">
+    <g id="Group_93" data-name="Group 93" transform="translate(530 2996.323)">
+      <g id="Group_92" data-name="Group 92">
+        <path id="Path_298" data-name="Path 298" d="M543.2,3039.848h25.487v4.685H530v-50.171h13.2Z" transform="translate(-530 -2994.362)" fill="#231815"/>
+        <path id="Path_299" data-name="Path 299" d="M622.214,2994.362h13.263v50.171H622.214Z" transform="translate(-528.544 -2994.362)" fill="#231815"/>
+        <path id="Path_300" data-name="Path 300" d="M691.8,2994.362h16.667l12.292,44.112,12.361-44.112h16.667v50.171H736.594V3002.8l-11.737,41.736h-8.124L705,3002.8v41.736H691.8Z" transform="translate(-527.445 -2994.362)" fill="#231815"/>
+        <path id="Path_301" data-name="Path 301" d="M817.921,3039.848h25.071v4.685H804.727v-50.171H842.3v4.685H817.921v17.746h22.71v4.685h-22.71Z" transform="translate(-525.662 -2994.362)" fill="#231815"/>
+        <path id="Path_302" data-name="Path 302" d="M896.94,2994.362h13.266v50.171H896.94Z" transform="translate(-524.206 -2994.362)" fill="#231815"/>
+      </g>
+    </g>
+    <g id="Group_95" data-name="Group 95" transform="translate(614.056 2870.182)">
+      <g id="Group_94" data-name="Group 94" transform="translate(77.341)">
+        <path id="Path_303" data-name="Path 303" d="M767.134,2967.021H744.743l43.769-96.84H810.9Z" transform="translate(-688.006 -2870.182)" fill="url(#linear-gradient)"/>
+        <path id="Path_304" data-name="Path 304" d="M725.132,2912.015l10.942-24.21,52.747-17.623-10.942,24.21Z" transform="translate(-688.316 -2870.182)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_305" data-name="Path 305" d="M725.7,2912.015l10.942-24.21-36.817-17.623-10.942,24.21Z" transform="translate(-688.888 -2870.182)" fill="url(#linear-gradient-3)"/>
+      </g>
+      <path id="Path_306" data-name="Path 306" d="M652.511,2967.021H630.12l43.769-96.84H696.28Z" transform="translate(-612.475 -2870.182)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_307" data-name="Path 307" d="M630.12,2965.892l10.942-24.21H753.017l-10.942,24.21Z" transform="translate(-612.475 -2869.052)" fill="url(#linear-gradient-5)"/>
+      <path id="Path_308" data-name="Path 308" d="M624.182,2967.021H612.749l43.769-96.84h11.433Z" transform="translate(-612.749 -2870.182)" fill="url(#linear-gradient-6)"/>
+      <path id="Path_309" data-name="Path 309" d="M784.34,2967.021H772.907l43.769-96.84h11.433Z" transform="translate(-610.22 -2870.182)" fill="url(#linear-gradient-7)"/>
+    </g>
+    <g id="Group_99" data-name="Group 99" transform="translate(530 3063.658)">
+      <g id="Group_96" data-name="Group 96" transform="translate(79.643)">
+        <path id="Path_310" data-name="Path 310" d="M622.812,3071.465c-.728,4.846-5.274,5.136-6.774,5.136-4.523,0-7.633-2.549-7.633-7.976,0-5.6,3.366-7.974,7.546-7.974,3.559,0,6.475,1.756,6.775,4.865H619.3a3.47,3.47,0,0,0-3.473-3.629c-2.83,0-3.838,2.3-3.838,6.739,0,4.577,1.072,6.74,3.859,6.74,2.315,0,3.366-1.525,3.474-3.9Z" transform="translate(-608.405 -3060.651)" fill="#231815"/>
+        <path id="Path_311" data-name="Path 311" d="M633.164,3072.347l-1.243,3.96H628.34l5.66-15.373h4.845l5.682,15.373h-3.581l-1.33-3.96Zm.429-1.254h5.66l-1.307-3.823-1.523-4.616-1.5,4.616Z" transform="translate(-608.09 -3060.646)" fill="#231815"/>
+        <path id="Path_312" data-name="Path 312" d="M653.583,3069.585v6.722H650.26v-15.373h7.632c3.216,0,5.124,1.585,5.124,4.153,0,3.166-2.594,3.688-3.922,3.958,2.786.444,4.008,1.371,4.008,6.2v1.062h-3.494v-2.259c0-3.186-.88-4.462-2.959-4.462Zm0-1.235h3.13c2.487,0,2.766-1.989,2.766-3.167,0-1.409-.535-2.991-2.786-2.991h-3.109Z" transform="translate(-607.744 -3060.646)" fill="#231815"/>
+        <path id="Path_313" data-name="Path 313" d="M680.373,3060.934h6.818c5.167,0,7.225,3.5,7.225,7.765,0,2.684-1.008,7.608-7.247,7.608h-6.8Zm3.323,1.258v12.879h2.188c4.437,0,4.995-3.842,4.995-6.74,0-3.572-1.307-6.139-5.037-6.139Z" transform="translate(-607.269 -3060.646)" fill="#231815"/>
+        <path id="Path_314" data-name="Path 314" d="M703.864,3075.071h8.382v1.236H700.54v-15.373h11.47v1.258h-8.147v5.714H711.5v1.236h-7.632Z" transform="translate(-606.95 -3060.646)" fill="#231815"/>
+        <path id="Path_315" data-name="Path 315" d="M725.861,3062.192v14.115h-3.323v-14.115h-5.145v-1.258h13.614v1.258Z" transform="translate(-606.684 -3060.646)" fill="#231815"/>
+        <path id="Path_316" data-name="Path 316" d="M741.011,3072.347l-1.243,3.96h-3.58l5.659-15.373h4.846l5.681,15.373h-3.581l-1.33-3.96Zm.43-1.254H747.1l-1.307-3.823-1.523-4.616-1.5,4.616Z" transform="translate(-606.387 -3060.646)" fill="#231815"/>
+        <path id="Path_317" data-name="Path 317" d="M758.677,3060.934H762v15.373h-3.323Z" transform="translate(-606.032 -3060.646)" fill="#231815"/>
+        <path id="Path_318" data-name="Path 318" d="M772.389,3075.071h8.491v1.236H769.066v-15.373h3.323Z" transform="translate(-605.868 -3060.646)" fill="#231815"/>
+        <path id="Path_319" data-name="Path 319" d="M787.079,3060.934H790.4v15.373h-3.324Z" transform="translate(-605.584 -3060.646)" fill="#231815"/>
+        <path id="Path_320" data-name="Path 320" d="M797.49,3060.934h3.925l6.539,13.152v-13.152h3.323v15.373h-3.945l-6.517-13.112v13.112H797.49Z" transform="translate(-605.419 -3060.646)" fill="#231815"/>
+        <path id="Path_321" data-name="Path 321" d="M831.79,3068.2v4.77c-1.331,2.471-3.5,3.63-6.648,3.63-3.88,0-7.653-1.873-7.653-7.976,0-6.642,4.523-7.974,7.5-7.974,3.646,0,6.175,1.912,6.669,4.75H828.21c.042-2.568-1.5-3.515-3.26-3.515-2.852,0-4.074,1.8-4.074,6.469,0,5.5,1.244,7.01,4.181,7.01a3.255,3.255,0,0,0,3.345-1.988v-3.921h-3.5V3068.2Z" transform="translate(-605.104 -3060.651)" fill="#231815"/>
+      </g>
+      <g id="Group_97" data-name="Group 97" transform="translate(317.33 7.258)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="68.67" height="1.341" fill="#231815"/>
+      </g>
+      <g id="Group_98" data-name="Group 98" transform="translate(0 7.258)">
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="68.67" height="1.341" fill="#231815"/>
+      </g>
+    </g>
+  </g>
+</svg>

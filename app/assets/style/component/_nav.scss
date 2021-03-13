@@ -19,12 +19,12 @@
             transform: translateX(-50%);
             transition: all 0.5s;
         }
-        &:hover::before, &:focus::before, &:active::before {
+        &:hover::before, &:focus::before, &.active::before {
             width: calc(100% - 50px);
             opacity: 1;
             transition: 0.5s;
         }
-        &:hover, &:focus, &:active {
+        &:hover, &:focus, &.active {
             color: $primary;
             font-weight: 500;
         }
