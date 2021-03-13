@@ -10720,8 +10720,9 @@ h1, h2, h3, h4, h5, h6, p {
         top: 140px; } }
     @media (max-width: 575.98px) {
       .bg_banner_bird {
-        width: 200px;
-        top: 120px; } }
+        width: 180px;
+        top: 100px;
+        left: 30px; } }
   .bg_banner_leaf-l {
     position: absolute;
     overflow-x: hidden;
