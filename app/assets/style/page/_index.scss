@@ -80,9 +80,9 @@
     }
     &_cat {
         position: absolute;
-        width: 320px;
-        bottom: 100px;
-        right: 60px;
+        width: 220px;
+        bottom: 80px;
+        right: 40px;
         @include media-breakpoint-down(md) {
             display: none;
         }
