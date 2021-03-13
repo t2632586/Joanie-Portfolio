@@ -12,8 +12,8 @@ $(document).ready(function () {
 
   $(window).scroll(function () {
     var scrollPos = $(window).scrollTop();
-    var windowHeight = $(window).height();
-    console.log(scrollPos, windowHeight);
+    var windowHeight = $(window).height(); // console.log(scrollPos, windowHeight);
+
     $('.scrollTop').each(function () {
       var target = $(this).attr('href');
       var targetPos = $(target).offset().top;

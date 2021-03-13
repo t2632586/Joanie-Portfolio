@@ -10651,11 +10651,11 @@ h1, h2, h3, h4, h5, h6, p {
     bottom: 0px;
     transform: translateX(-50%);
     transition: all 0.5s; }
-  .nav_menu_column_link:hover::before, .nav_menu_column_link:focus::before, .nav_menu_column_link:active::before {
+  .nav_menu_column_link:hover::before, .nav_menu_column_link:focus::before, .nav_menu_column_link.active::before {
     width: 100%;
     opacity: 1;
     transition: 0.5s; }
-  .nav_menu_column_link:hover, .nav_menu_column_link:focus, .nav_menu_column_link:active {
+  .nav_menu_column_link:hover, .nav_menu_column_link:focus, .nav_menu_column_link.active {
     color: #9D5C63;
     font-weight: 500; }
 
