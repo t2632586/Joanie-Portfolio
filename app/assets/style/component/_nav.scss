@@ -38,14 +38,14 @@
     transition: all 1s;
 }
 .change .line_1 {
-    transform: rotateZ(-405deg) translate(-8px, 10px);
+    transform: rotateZ(-405deg) translate(-7px, 7px);
     background-color: $primary;
 }
 .change .line_2 {
     opacity: 0;
 }
 .change .line_3 {
-    transform: rotateZ(405deg) translate(-8px, -10px);
+    transform: rotateZ(405deg) translate(-7px, -7px);
     background-color: $primary;
 }
 .nav_bar {
@@ -69,7 +69,7 @@
     width: 40px;
     height: 30px;
     position: fixed;
-    top: 30px;
+    top: 20px;
     right: 40px;
 }
 .nav_menu_column {
