@@ -61,7 +61,8 @@
             top: 140px;
         }
         @include media-breakpoint-down(xs) {
-            display: none;
+            width: 200px;
+            top: 120px;
         }
     }
     &_leaf-l {
