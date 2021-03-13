@@ -11635,9 +11635,9 @@ h1, h2, h3, h4, h5, h6, p {
     right: -25px; }
   .bg_banner_cat {
     position: absolute;
-    width: 320px;
-    bottom: 100px;
-    right: 60px; }
+    width: 220px;
+    bottom: 80px;
+    right: 40px; }
     @media (max-width: 991.98px) {
       .bg_banner_cat {
         display: none; } }
