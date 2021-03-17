@@ -11566,7 +11566,7 @@ h1, h2, h3, h4, h5, h6, p {
   .bg_banner_title {
     position: absolute;
     max-width: 900px;
-    width: 100%;
+    width: 90%;
     text-align: center;
     top: 300px; }
     @media (max-width: 1199.98px) {
