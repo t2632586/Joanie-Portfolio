@@ -11575,11 +11575,11 @@ h1, h2, h3, h4, h5, h6, p {
         top: 400px; } }
     @media (max-width: 991.98px) {
       .bg_banner_title {
-        width: 75%;
+        width: 70%;
         top: 380px; } }
     @media (max-width: 767.98px) {
       .bg_banner_title {
-        width: 75%;
+        width: 65%;
         top: 300px; } }
   .bg_banner_title_sm {
     position: absolute;
@@ -11618,11 +11618,9 @@ h1, h2, h3, h4, h5, h6, p {
       .bg_banner_bird {
         width: 220px;
         top: 140px; } }
-    @media (max-width: 575.98px) {
+    @media (max-width: 767.98px) {
       .bg_banner_bird {
-        width: 130px;
-        top: 100px;
-        left: 30px; } }
+        display: none; } }
   .bg_banner_leaf-l {
     position: absolute;
     overflow-x: hidden;
@@ -11631,7 +11629,10 @@ h1, h2, h3, h4, h5, h6, p {
     left: -40px; }
     @media (max-width: 991.98px) {
       .bg_banner_leaf-l {
-        width: 250px; } }
+        width: 200px; } }
+    @media (max-width: 767.98px) {
+      .bg_banner_leaf-l {
+        width: 180px; } }
   .bg_banner_leaf-r {
     position: absolute;
     overflow-x: hidden;
@@ -11640,7 +11641,10 @@ h1, h2, h3, h4, h5, h6, p {
     right: -25px; }
     @media (max-width: 991.98px) {
       .bg_banner_leaf-r {
-        width: 250px; } }
+        width: 200px; } }
+    @media (max-width: 767.98px) {
+      .bg_banner_leaf-r {
+        width: 180px; } }
   .bg_banner_cat {
     position: absolute;
     width: 220px;
@@ -11738,7 +11742,7 @@ h1, h2, h3, h4, h5, h6, p {
             filter: grayscale(0); }
   @media (max-width: 991.98px) {
     .project {
-      border-radius: 60px 0 60px 0;
+      border-radius: 50px 0 50px 0;
       box-shadow: 13px -13px 0px #9d5c63; } }
   @media (max-width: 767.98px) {
     .project {
