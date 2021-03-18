@@ -17363,6 +17363,11 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 24px;
   }
 }
+@media (max-width: 767.98px) {
+  .footer_title {
+    font-size: 18px;
+  }
+}
 
 .footer_text {
   font-size: 14px;
