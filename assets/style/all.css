@@ -11439,6 +11439,9 @@ h1, h2, h3, h4, h5, h6, p {
   @media (max-width: 991.98px) {
     .footer_title {
       font-size: 24px; } }
+  @media (max-width: 767.98px) {
+    .footer_title {
+      font-size: 20px; } }
 
 .footer_text {
   font-size: 14px; }
