@@ -31,25 +31,16 @@
     }
 }
 .project {
-    width: 100%;
         overflow: hidden;
-        border-radius: 90px 0 90px 0;
-        box-shadow: 15px -15px 0px rgba(157, 92, 99, 1);
+        border-radius: 45px 0 45px 0;
+        box-shadow: 8px -8px 0px rgba(157, 92, 99, 1);
         filter: grayscale(0.7);
         &:hover {
             filter: grayscale(0);
         }
         @include media-breakpoint-down (md) {
-            border-radius: 70px 0 70px 0;
-            box-shadow: 13px -13px 0px rgba(157, 92, 99, 1);
-        }
-        @include media-breakpoint-down (sm) {
             border-radius: 50px 0 50px 0;
-            box-shadow: 11px -11px 0px rgba(157, 92, 99, 1);
-        }
-        @include media-breakpoint-down (xs) {
-            border-radius: 30px 0 30px 0;
-            box-shadow: 9px -9px 0px rgba(157, 92, 99, 1);
+            box-shadow: 10px -10px 0px rgba(157, 92, 99, 1);
         }
     &_img {
         transform: scale(1, 1);
@@ -58,13 +49,13 @@
             box-shadow: none;
         }
         &:hover {
-            transform: scale(1.05, 1.05);
+            transform: scale(1.1, 1.1);
         }
     }
     &_btn {
         color: $light;
         right: 0px;
-        top: 30px;
+        top: 15px;
         @include media-breakpoint-down (sm) {
             top: 15px;
         }
