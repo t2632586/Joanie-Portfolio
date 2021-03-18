@@ -11733,7 +11733,7 @@ h1, h2, h3, h4, h5, h6, p {
 .project {
   overflow: hidden;
   border-radius: 45px 0 45px 0;
-  box-shadow: 15px -15px 0px #9d5c63;
+  box-shadow: 8px -8px 0px #9d5c63;
   -webkit-filter: grayscale(0.7);
           filter: grayscale(0.7); }
   .project:hover {
@@ -11742,13 +11742,7 @@ h1, h2, h3, h4, h5, h6, p {
   @media (max-width: 991.98px) {
     .project {
       border-radius: 50px 0 50px 0;
-      box-shadow: 13px -13px 0px #9d5c63; } }
-  @media (max-width: 767.98px) {
-    .project {
-      box-shadow: 11px -11px 0px #9d5c63; } }
-  @media (max-width: 575.98px) {
-    .project {
-      box-shadow: 9px -9px 0px #9d5c63; } }
+      box-shadow: 10px -10px 0px #9d5c63; } }
   .project_img {
     transform: scale(1, 1);
     transition: all 0.5s; }
@@ -11756,7 +11750,7 @@ h1, h2, h3, h4, h5, h6, p {
       .project_img {
         box-shadow: none; } }
     .project_img:hover {
-      transform: scale(1.05, 1.05); }
+      transform: scale(1.1, 1.1); }
   .project_btn {
     color: #FEF5EF;
     right: 0px;
