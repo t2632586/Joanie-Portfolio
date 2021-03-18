@@ -11893,6 +11893,12 @@ h1, h2, h3, h4, h5, h6, p {
   background: #000000;
   border-radius: 50%; }
 
+.coffee_color_bg {
+  width: 60px;
+  height: 60px;
+  background: #F4F0F0;
+  border-radius: 50%; }
+
 .about_bg_pattern_r {
   position: absolute;
   width: 280px;
